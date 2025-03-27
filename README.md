@@ -32,3 +32,4 @@ This project is built with a focus on **transparency, fairness, and decentraliza
 ---
 
 Let me know if you need any modifications! 🚀
+![Screenshot 2025-03-27 172511](https://github.com/user-attachments/assets/ad1bb156-f54b-4f6b-badf-afe36fe48c6b)
